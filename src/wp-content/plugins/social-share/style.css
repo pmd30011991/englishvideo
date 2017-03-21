@@ -1,0 +1,62 @@
+.social-share-wrapper {
+    /*margin: 10px 0;*/
+}
+.social-share-wrapper div
+{
+    float: left;
+    margin-right: 10px;
+}
+
+.social-share-wrapper div.facebook
+{
+    background-color: #3a5795;
+    padding: 9px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin-left: 3px;
+}
+
+.social-share-wrapper div.facebook a
+{
+    color: white;
+}
+
+.social-share-wrapper div.twitter
+{
+    background-color: #55acee;
+    padding: 5px;
+}
+
+.social-share-wrapper div.twitter a
+{
+    color: white;
+}
+
+.social-share-wrapper div.linkedin
+{
+    background-color: #007bb6;
+    padding: 5px;
+}
+
+.social-share-wrapper div.linkedin a
+{
+    color: white;
+}
+
+.social-share-wrapper div.reddit
+{
+    background-color: #ACD4FC;
+    padding: 5px;
+}
+
+.social-share-wrapper div.reddit a
+{
+    color: white;
+}
+
+.social-share-wrapper div a
+{
+    text-decoration: none;
+    border: none;
+}
